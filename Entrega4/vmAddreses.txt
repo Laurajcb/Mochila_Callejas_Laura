@@ -1,0 +1,7 @@
+Ejercitacion Entrega 4
+
+
+IP virtual Machine : inet addr  10.0.2.15
+
+MAC virtual machine: HWaddr  08:00:27:79:9b:93  
+
