@@ -5,3 +5,8 @@ IP virtual Machine : inet addr  10.0.2.15
 
 MAC virtual machine: HWaddr  08:00:27:79:9b:93  
 
+Es diferente a la IP publica y privada de nuestra maquina host ?
+
+Respuesta : La IP publica es la direccion utilizada en internet para identificar
+y enrutar el traffico hacia un dispositivo, mientras que la IP privda es una direccion utilizada dentro de una red local para la comunicacion interna entre dispositivos 
+
