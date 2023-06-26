@@ -1,0 +1,24 @@
+TELNET 
+Ventajas :
+	1. Es simple y facil de usar, facilita su implementacion y configuracion
+	2. Muy complatible, la mayoria de los sistemas operativos y dispositivos de red admiten Telnet lo que lo hace accesible
+
+Desventajas: 
+	1. Falta de seguridad, este no proporciona cifrado ni autenticidad segura, asi
+	que passwords e informacion transmitida puede ser facilmente obtenida por terceros.
+	2. Dado a que telnet no tienen sistemas de seguraridad robustos es vulnerable a ataques, como suplantacion de identidad.
+
+
+SSH 
+Ventajas: 
+	1. Seguridad, ssh proporciona un cifrado de extremo a extremo lo que asegura que los datos transmitidos estan protegidos contra manipulacion no autorizada 
+	2. Autenticacion , ssh ofrece varias formas de autenticarse como claves publicas y passwords de un solo uso.
+
+Desventajas :
+	1. Complejidad, ssh requiere un poco mas de conocimientos tecnicos debido a su enfoque de seguridad y configuracion de claves.
+	2. Require configuracion inicial, para habilitar ssh es necesario configurar el servidor , este implica pasos adicionales.
+
+Diferencias de SSH y Telnet : 
+	1. SEguridad: SSh usa cifrado para proteger la colunicacion mientras que Telnet transmite los datos en texto plano.
+	2. Autenticacion: SSH ofrece autenticacion mas solida, passwords seguras, uso de llaves publicas, autenticaion de dos factores, Telnet por otro lado usa autenticacion de passwords simples sin mecanismos adicionales.
+ 
